@@ -13,17 +13,7 @@ ORCID: https://orcid.org/0000-0001-5015-0531
 The graphs that the script outputs are the following:
 
 Weekly viral cases and Pediatric ICU occupancy 2018-2022 (ICU data only for 2020-2022)
-![model](https://raw.githubusercontent.com/rquiroga7/Portugal_mortality/main/2020-06-15_model_trained_portugal.png)
+![Viral cases and ICU occupancy](https://raw.githubusercontent.com/rquiroga7/Ontario-Pediatric-ICU-occupancy/main/virus_COVID_ICU_ped_Ontario.png)
 Weekly viral cases + COVID cases, and Pediatric ICU occupancy 2018-2022 (ICU data only for 2020-2022)
-![Daily mortality by year](https://raw.githubusercontent.com/rquiroga7/Portugal_mortality/main/2020-06-15_total_mortality_portugal.png)
-Daily mortality by year compared to daily COVID reported deaths
-![Daily mortality by year](https://raw.githubusercontent.com/rquiroga7/Portugal_mortality/main/2020-06-15_total_mortality_covid_deaths_portugal.png)
-Daily excess mortality 2011-2022
-![Daily excess mortality 2011-2022](https://raw.githubusercontent.com/rquiroga7/Portugal_mortality/main/2020-06-15_mortalidad_portugal_sinepred_ENG.png)
-Daily excess mortality 2021-2022
-![Daily excess mortality 2021-2022](https://raw.githubusercontent.com/rquiroga7/Portugal_mortality/main/2020-06-15_mortalidad_portugal_sinepred_21_22_ENG.png)
-Daily excess mortality % 2011-2022
-![Daily excess mortality % 2011-2022](https://raw.githubusercontent.com/rquiroga7/Portugal_mortality/main/2020-06-15_mortalidad_portugal_sinepred_porc_ENG.png)
-Daily excess mortality % 2021-2022
-![Daily excess mortality % 2021-2022](https://raw.githubusercontent.com/rquiroga7/Portugal_mortality/main/2020-06-15_mortalidad_portugal_sinepred_porc_21_22_ENG.png)
+![Viral and COVID cases and ICU occupancy](https://raw.githubusercontent.com/rquiroga7/Ontario-Pediatric-ICU-occupancy/main/virus_ICU_ped_Ontario.png)
 
