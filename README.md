@@ -3,7 +3,7 @@ Pediatric ICU surge in Ontario, analyzed 2022-11-11 with data from Canada Public
 
 By Dr. Rodrigo Quiroga (@rquiroga777 on Twitter)
 
-Adjunct Professor at: Departamento de Química Teórica y Computacional, Facultad de Ciencias Químicas, Universidad Nacional de Córdoba, ARGENTINA
+Assistant Professor at: Departamento de Química Teórica y Computacional, Facultad de Ciencias Químicas, Universidad Nacional de Córdoba, ARGENTINA
 
 Junior Researcher at: INFIQC-CONICET
 
