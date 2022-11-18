@@ -1,0 +1,6 @@
+Age.Category,Born_ before_2021_RSV_wave,Born_ before_ low_viral_circulation_2020,Mother_pregnant_during_low_viral_circulation,Yearly_ COVID_ Incidence_Nov-2021,Yearly_ COVID_ Incidence_Nov-2022
+0-<6 months,No,No,No,8%,17%
+6-<12 months,Few,No,Most,21%,54%
+1-<2 years,Most,Half,Some,25%,69%
+2-4 years,Yes,Yes,Few,25%,69%
+5-17 years,Yes,Yes,None,29%,78%
